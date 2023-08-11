@@ -22,14 +22,6 @@
 </div>
 <br/>
 
-## 📊 &nbsp;Statistic and Achievement
-<div align="center">  
-  <img width="444em" src="https://github-profile-trophy.vercel.app/?username=ntesseract&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true&no-bg=true" />
-  <img width="444em" src="https://github-readme-stats-arugaz.vercel.app/api?username=ntesseract&&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img width="444em" src="https://github-readme-streak-stats.herokuapp.com?user=ntesseract&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <img width="444em" src="https://github-readme-stats-arugaz.vercel.app/api/top-langs/?username=ntesseract&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=11" />
-</div>
-
 ## 📬 &nbsp;Contact
 <div align="center">
   <a href="https://api.whatsapp.com/send/?phone=6289624116070"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
