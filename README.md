@@ -21,7 +21,7 @@ Here is some Technologies that Familiar or Ever I use:
 
 I enjoy taking on challenges and creating innovative solutions. Here's what I can offer:
 
-- Website Developing a Website (Frontend and Backend)
+- Developing a website (Frontend and Backend)
 - Manipulating Database in MySQL. such as creating, editing, and droping
 - Creating a small project (only for Logic work I can comprehend)
 
