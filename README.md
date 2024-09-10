@@ -7,7 +7,7 @@
 ## <div align=center>About Me</div>
 
 Welcome to my GitHub profile! <br/>
-I'm **NTesseract**, I'm 17 years old male that studying in Vocational High School from Semarang (SMKN 10 Semarang).
+I'm **NTesseract**, I'm 17 years old male that studying in State Vocational High School (SMK Negeri 10).
 I like to Learn and Explore many thing in Internet.
 I'm having interest with Coding and decided to become a Programmer.
 
