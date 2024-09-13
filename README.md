@@ -24,8 +24,13 @@ Here is some Technologies that Familiar or Ever I learn or use:
 
 ## <div align=center>Github Status</div>
 
+<details>
+<summary>Click to expand</summary>
+
 [![ntesseract's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntesseract&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![ntesseract's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ntesseract&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ntesseract's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntesseract&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ygy](https://github-profile-trophy.vercel.app/?username=ntesseract&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&layout=compact&theme=radical&no-frame=true")](https://github.com/ryo-ma/github-profile-trophy)
+</details>
 
 ## <div align=center>What Can I Do?</div>
 
