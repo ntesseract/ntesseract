@@ -1,7 +1,7 @@
 # <div align=center>Hello Everybody 👋</div>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/d06603d196ad40f6bbd4d8bf0bbd1b998169bb16fd358c975511de7d0207b3d1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63652f36352f62372f63653635623765643161346262653838366463666434363838323361383630382e676966"/>
+  <img src="./media/banner.gif"/>
 </div>
 
 ## <div align=center>About Me</div>
@@ -21,6 +21,11 @@ Here is some Technologies that Familiar or Ever I learn or use:
 - **Others:** ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF5050?logo=renpy&logoColor=white&style=for-the-badge) ![GameMaker Studio 2](https://img.shields.io/badge/GameMaker%20Studio%202-1C1C1C?logo=gamemaker&logoColor=white&style=for-the-badge)
 
 **Tools that I usually use:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+
+## <div align=center>Github Status</div>
+
+[![ntesseract's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntesseract&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ntesseract's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ntesseract&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <div align=center>What Can I Do?</div>
 
